@@ -1,0 +1,24 @@
+2024-05-17 17:46:25,644 - INFO - [Host]: LBIP: 20.8.176.72
+2024-05-17 17:46:25,713 - INFO - [Host]: Socket connected
+2024-05-17 17:46:25,713 - INFO - [Host]: Start sending
+2024-05-17 17:46:25,776 - INFO - [Host]: LBIP: 20.8.176.72
+2024-05-17 17:46:25,788 - INFO - [Host]: LBIP: 20.8.176.72
+2024-05-17 17:46:25,841 - INFO - [Host]: Socket connected
+2024-05-17 17:46:25,841 - INFO - [Host]: Start sending
+2024-05-17 17:46:25,857 - INFO - [Host]: Socket connected
+2024-05-17 17:46:25,857 - INFO - [Host]: Start sending
+2024-05-17 17:46:44,741 - INFO - [Host]: Start receiving data
+2024-05-17 17:46:44,958 - INFO - [Host]: Returning received array
+2024-05-17 17:46:54,750 - INFO - [Host]: Start receiving data
+2024-05-17 17:46:54,956 - INFO - [Host]: Returning received array
+2024-05-17 17:46:58,973 - INFO - [Host]: Start receiving data
+2024-05-17 17:46:59,695 - INFO - [Host]: Returning received array
+2024-05-17 17:47:18,742 - INFO - 127.0.0.1 - - [17/May/2024 17:47:18] "[32mPOST /startProcessing HTTP/1.1[0m" 302 -
+2024-05-17 17:47:18,793 - INFO - 127.0.0.1 - - [17/May/2024 17:47:18] "GET / HTTP/1.1" 200 -
+2024-05-17 17:47:18,877 - INFO - 127.0.0.1 - - [17/May/2024 17:47:18] "[36mGET /static/uploads/image0.jpg HTTP/1.1[0m" 304 -
+2024-05-17 17:47:18,879 - INFO - 127.0.0.1 - - [17/May/2024 17:47:18] "[36mGET /static/index.css HTTP/1.1[0m" 304 -
+2024-05-17 17:47:18,882 - INFO - 127.0.0.1 - - [17/May/2024 17:47:18] "[36mGET /static/uploads/image1.jpg HTTP/1.1[0m" 304 -
+2024-05-17 17:47:18,982 - INFO - 127.0.0.1 - - [17/May/2024 17:47:18] "[36mGET /static/uploads/image2.jpg HTTP/1.1[0m" 304 -
+2024-05-17 17:47:18,988 - INFO - 127.0.0.1 - - [17/May/2024 17:47:18] "GET /static/output/out0.png HTTP/1.1" 200 -
+2024-05-17 17:47:18,998 - INFO - 127.0.0.1 - - [17/May/2024 17:47:18] "GET /static/output/out1.png HTTP/1.1" 200 -
+2024-05-17 17:47:19,022 - INFO - 127.0.0.1 - - [17/May/2024 17:47:19] "GET /static/output/out2.png HTTP/1.1" 200 -

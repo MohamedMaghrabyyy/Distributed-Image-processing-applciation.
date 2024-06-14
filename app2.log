@@ -1,0 +1,392 @@
+2024-05-17 13:17:33,209 - INFO - [Master 2]: Start listening on ip:10.1.0.4, port:5090
+2024-05-17 13:17:44,694 - INFO - [Master 2]: Health Probe
+2024-05-17 13:18:04,710 - INFO - [Master 2]: Health Probe
+2024-05-17 13:18:24,714 - INFO - [Master 2]: Health Probe
+2024-05-17 13:18:44,726 - INFO - [Master 2]: Health Probe
+2024-05-17 13:19:04,731 - INFO - [Master 2]: Health Probe
+2024-05-17 13:19:24,732 - INFO - [Master 2]: Health Probe
+2024-05-17 13:19:40,833 - INFO - [Master 2]: Starting Thread with:41.238.94.188 : 54710 
+2024-05-17 13:19:40,843 - INFO - [Master 2]: start receiving data
+2024-05-17 13:19:40,843 - INFO - [Master 2]: Starting Thread with:41.238.94.188 : 23767 
+2024-05-17 13:19:40,844 - INFO - [Master 2]: start receiving data
+2024-05-17 13:19:40,995 - INFO - [Master 2]: Starting Thread with:41.238.94.188 : 23769 
+2024-05-17 13:19:40,996 - INFO - [Master 2]: start receiving data
+2024-05-17 13:19:41,023 - INFO - [Master 2]: Starting Thread with:41.238.94.188 : 54712 
+2024-05-17 13:19:41,054 - INFO - [Master 2]: start receiving data
+2024-05-17 13:19:41,161 - INFO - [Master 2]: Starting Thread with:41.238.94.188 : 54714 
+2024-05-17 13:19:41,181 - INFO - [Master 2]: start receiving data
+2024-05-17 13:19:44,740 - INFO - [Master 2]: Health Probe
+2024-05-17 13:19:49,311 - INFO - [Master 2]: returning received array
+2024-05-17 13:19:49,312 - INFO - [Master 2]: Received image with operation:Threshold 
+2024-05-17 13:19:49,316 - INFO - [Master 2]: returning received array
+2024-05-17 13:19:49,316 - INFO - [Master 2]: Received image with operation:Threshold 
+2024-05-17 13:19:49,359 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:49,360 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:49,376 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:19:49,376 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:19:49,399 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:49,400 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:49,411 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:19:49,435 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:19:49,452 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:49,459 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:19:49,474 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:49,483 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:19:54,413 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:19:54,419 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:19:54,446 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:19:54,446 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:19:54,476 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:19:54,488 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:19:54,501 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:19:54,559 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:19:54,564 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:19:56,270 - INFO - [Master 2]: returning received array
+2024-05-17 13:19:56,332 - INFO - [Master 2]: Received image with operation:Threshold 
+2024-05-17 13:19:56,650 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:19:56,695 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:56,762 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:19:56,789 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:19:56,797 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:56,847 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:19:56,900 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:56,986 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:19:57,029 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:57,062 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:19:57,062 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:57,063 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:19:57,096 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:19:57,627 - INFO - [Master 2]: returning received array
+2024-05-17 13:19:57,637 - INFO - [Master 2]: Received image with operation:Threshold 
+2024-05-17 13:19:58,141 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:58,210 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:58,252 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:19:58,406 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:19:58,519 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:19:58,553 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:20:00,106 - INFO - [Master 2]: returning received array
+2024-05-17 13:20:00,139 - INFO - [Master 2]: Received image with operation:Threshold 
+2024-05-17 13:20:00,683 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:20:00,711 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:20:00,834 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:20:00,864 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:20:01,109 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:20:01,127 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:20:02,081 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:02,158 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:02,187 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:02,187 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:02,293 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:02,341 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:02,423 - INFO - [Master 2]: sending serialized
+2024-05-17 13:20:02,453 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:02,562 - INFO - [Master 2]: sending serialized
+2024-05-17 13:20:03,738 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:03,789 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:03,961 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:04,772 - INFO - [Master 2]: Health Probe
+2024-05-17 13:20:06,136 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:06,277 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:06,549 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:24,816 - INFO - [Master 2]: Health Probe
+2024-05-17 13:20:26,931 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:27,612 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:28,041 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:28,381 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:28,419 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:20:28,458 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:20:28,771 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:29,134 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:29,617 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:20:29,661 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:20:33,474 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:33,910 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:34,126 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:34,225 - INFO - [Master 2]: sending serialized
+2024-05-17 13:20:35,063 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:35,944 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:37,622 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:37,802 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:37,811 - INFO - [ServerMaster]: Start sending
+2024-05-17 13:20:37,838 - INFO - [ServerMaster]: Start receive process
+2024-05-17 13:20:37,899 - INFO - [Master 2]: sending serialized
+2024-05-17 13:20:43,239 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 13:20:44,801 - INFO - [Master 2]: Health Probe
+2024-05-17 13:20:48,406 - INFO - [ServerMaster]: Returning received array
+2024-05-17 13:20:48,427 - INFO - [Master 2]: sending serialized
+2024-05-17 13:21:04,781 - INFO - [Master 2]: Health Probe
+2024-05-17 13:21:24,791 - INFO - [Master 2]: Health Probe
+2024-05-17 13:21:44,794 - INFO - [Master 2]: Health Probe
+2024-05-17 13:22:04,810 - INFO - [Master 2]: Health Probe
+2024-05-17 13:22:24,820 - INFO - [Master 2]: Health Probe
+2024-05-17 13:22:44,835 - INFO - [Master 2]: Health Probe
+2024-05-17 13:23:04,843 - INFO - [Master 2]: Health Probe
+2024-05-17 13:23:24,859 - INFO - [Master 2]: Health Probe
+2024-05-17 13:23:44,864 - INFO - [Master 2]: Health Probe
+2024-05-17 13:24:04,870 - INFO - [Master 2]: Health Probe
+2024-05-17 13:24:24,878 - INFO - [Master 2]: Health Probe
+2024-05-17 13:24:44,881 - INFO - [Master 2]: Health Probe
+2024-05-17 13:25:04,899 - INFO - [Master 2]: Health Probe
+2024-05-17 13:25:24,899 - INFO - [Master 2]: Health Probe
+2024-05-17 13:25:44,900 - INFO - [Master 2]: Health Probe
+2024-05-17 13:26:04,915 - INFO - [Master 2]: Health Probe
+2024-05-17 13:26:24,930 - INFO - [Master 2]: Health Probe
+2024-05-17 13:26:44,932 - INFO - [Master 2]: Health Probe
+2024-05-17 13:27:04,938 - INFO - [Master 2]: Health Probe
+2024-05-17 13:27:24,943 - INFO - [Master 2]: Health Probe
+2024-05-17 13:27:44,956 - INFO - [Master 2]: Health Probe
+2024-05-17 13:28:04,971 - INFO - [Master 2]: Health Probe
+2024-05-17 13:28:24,976 - INFO - [Master 2]: Health Probe
+2024-05-17 13:28:44,989 - INFO - [Master 2]: Health Probe
+2024-05-17 13:29:05,006 - INFO - [Master 2]: Health Probe
+2024-05-17 13:29:25,020 - INFO - [Master 2]: Health Probe
+2024-05-17 13:29:45,013 - INFO - [Master 2]: Health Probe
+2024-05-17 13:30:05,013 - INFO - [Master 2]: Health Probe
+2024-05-17 13:30:25,014 - INFO - [Master 2]: Health Probe
+2024-05-17 13:30:45,029 - INFO - [Master 2]: Health Probe
+2024-05-17 13:31:05,037 - INFO - [Master 2]: Health Probe
+2024-05-17 13:31:25,039 - INFO - [Master 2]: Health Probe
+2024-05-17 13:31:45,041 - INFO - [Master 2]: Health Probe
+2024-05-17 13:32:05,057 - INFO - [Master 2]: Health Probe
+2024-05-17 13:32:25,076 - INFO - [Master 2]: Health Probe
+2024-05-17 13:32:45,083 - INFO - [Master 2]: Health Probe
+2024-05-17 13:33:05,095 - INFO - [Master 2]: Health Probe
+2024-05-17 13:33:25,100 - INFO - [Master 2]: Health Probe
+2024-05-17 13:33:45,114 - INFO - [Master 2]: Health Probe
+2024-05-17 13:34:05,116 - INFO - [Master 2]: Health Probe
+2024-05-17 13:34:25,132 - INFO - [Master 2]: Health Probe
+2024-05-17 13:34:45,136 - INFO - [Master 2]: Health Probe
+2024-05-17 13:35:05,139 - INFO - [Master 2]: Health Probe
+2024-05-17 13:35:25,149 - INFO - [Master 2]: Health Probe
+2024-05-17 13:35:45,154 - INFO - [Master 2]: Health Probe
+2024-05-17 13:36:05,158 - INFO - [Master 2]: Health Probe
+2024-05-17 13:36:25,172 - INFO - [Master 2]: Health Probe
+2024-05-17 13:36:45,182 - INFO - [Master 2]: Health Probe
+2024-05-17 13:37:05,183 - INFO - [Master 2]: Health Probe
+2024-05-17 13:37:25,188 - INFO - [Master 2]: Health Probe
+2024-05-17 13:37:45,202 - INFO - [Master 2]: Health Probe
+2024-05-17 13:38:05,212 - INFO - [Master 2]: Health Probe
+2024-05-17 13:38:25,220 - INFO - [Master 2]: Health Probe
+2024-05-17 13:38:45,231 - INFO - [Master 2]: Health Probe
+2024-05-17 13:39:05,242 - INFO - [Master 2]: Health Probe
+2024-05-17 13:39:25,250 - INFO - [Master 2]: Health Probe
+2024-05-17 13:39:45,259 - INFO - [Master 2]: Health Probe
+2024-05-17 13:40:05,272 - INFO - [Master 2]: Health Probe
+2024-05-17 13:40:25,275 - INFO - [Master 2]: Health Probe
+2024-05-17 13:40:45,277 - INFO - [Master 2]: Health Probe
+2024-05-17 13:41:05,284 - INFO - [Master 2]: Health Probe
+2024-05-17 13:41:25,300 - INFO - [Master 2]: Health Probe
+2024-05-17 13:41:45,317 - INFO - [Master 2]: Health Probe
+2024-05-17 13:42:05,323 - INFO - [Master 2]: Health Probe
+2024-05-17 13:42:25,330 - INFO - [Master 2]: Health Probe
+2024-05-17 13:42:45,332 - INFO - [Master 2]: Health Probe
+2024-05-17 13:43:05,334 - INFO - [Master 2]: Health Probe
+2024-05-17 13:43:25,343 - INFO - [Master 2]: Health Probe
+2024-05-17 13:43:45,347 - INFO - [Master 2]: Health Probe
+2024-05-17 13:44:05,346 - INFO - [Master 2]: Health Probe
+2024-05-17 13:44:25,355 - INFO - [Master 2]: Health Probe
+2024-05-17 13:44:45,373 - INFO - [Master 2]: Health Probe
+2024-05-17 13:45:05,372 - INFO - [Master 2]: Health Probe
+2024-05-17 13:45:25,375 - INFO - [Master 2]: Health Probe
+2024-05-17 13:45:45,386 - INFO - [Master 2]: Health Probe
+2024-05-17 13:46:05,399 - INFO - [Master 2]: Health Probe
+2024-05-17 13:46:25,404 - INFO - [Master 2]: Health Probe
+2024-05-17 13:46:45,411 - INFO - [Master 2]: Health Probe
+2024-05-17 13:47:05,422 - INFO - [Master 2]: Health Probe
+2024-05-17 13:47:25,426 - INFO - [Master 2]: Health Probe
+2024-05-17 13:47:45,437 - INFO - [Master 2]: Health Probe
+2024-05-17 13:48:05,451 - INFO - [Master 2]: Health Probe
+2024-05-17 13:48:25,451 - INFO - [Master 2]: Health Probe
+2024-05-17 13:48:45,468 - INFO - [Master 2]: Health Probe
+2024-05-17 13:49:05,477 - INFO - [Master 2]: Health Probe
+2024-05-17 13:49:25,488 - INFO - [Master 2]: Health Probe
+2024-05-17 13:49:45,493 - INFO - [Master 2]: Health Probe
+2024-05-17 13:50:05,504 - INFO - [Master 2]: Health Probe
+2024-05-17 13:50:25,522 - INFO - [Master 2]: Health Probe
+2024-05-17 13:50:45,536 - INFO - [Master 2]: Health Probe
+2024-05-17 13:51:05,548 - INFO - [Master 2]: Health Probe
+2024-05-17 13:51:25,552 - INFO - [Master 2]: Health Probe
+2024-05-17 13:51:45,559 - INFO - [Master 2]: Health Probe
+2024-05-17 13:52:05,568 - INFO - [Master 2]: Health Probe
+2024-05-17 13:52:25,577 - INFO - [Master 2]: Health Probe
+2024-05-17 13:52:45,587 - INFO - [Master 2]: Health Probe
+2024-05-17 13:53:05,592 - INFO - [Master 2]: Health Probe
+2024-05-17 13:53:25,605 - INFO - [Master 2]: Health Probe
+2024-05-17 13:53:45,616 - INFO - [Master 2]: Health Probe
+2024-05-17 13:54:05,626 - INFO - [Master 2]: Health Probe
+2024-05-17 13:54:25,641 - INFO - [Master 2]: Health Probe
+2024-05-17 13:54:45,645 - INFO - [Master 2]: Health Probe
+2024-05-17 13:55:05,649 - INFO - [Master 2]: Health Probe
+2024-05-17 13:55:25,651 - INFO - [Master 2]: Health Probe
+2024-05-17 13:55:45,657 - INFO - [Master 2]: Health Probe
+2024-05-17 13:56:05,666 - INFO - [Master 2]: Health Probe
+2024-05-17 13:56:25,681 - INFO - [Master 2]: Health Probe
+2024-05-17 13:56:45,680 - INFO - [Master 2]: Health Probe
+2024-05-17 13:57:05,688 - INFO - [Master 2]: Health Probe
+2024-05-17 13:57:25,692 - INFO - [Master 2]: Health Probe
+2024-05-17 13:57:45,698 - INFO - [Master 2]: Health Probe
+2024-05-17 13:58:05,715 - INFO - [Master 2]: Health Probe
+2024-05-17 13:58:25,719 - INFO - [Master 2]: Health Probe
+2024-05-17 13:58:45,730 - INFO - [Master 2]: Health Probe
+2024-05-17 13:59:05,735 - INFO - [Master 2]: Health Probe
+2024-05-17 13:59:25,741 - INFO - [Master 2]: Health Probe
+2024-05-17 13:59:45,741 - INFO - [Master 2]: Health Probe
+2024-05-17 14:00:05,749 - INFO - [Master 2]: Health Probe
+2024-05-17 14:00:25,764 - INFO - [Master 2]: Health Probe
+2024-05-17 14:00:45,770 - INFO - [Master 2]: Health Probe
+2024-05-17 14:01:05,787 - INFO - [Master 2]: Health Probe
+2024-05-17 14:01:25,797 - INFO - [Master 2]: Health Probe
+2024-05-17 14:01:45,800 - INFO - [Master 2]: Health Probe
+2024-05-17 14:02:05,812 - INFO - [Master 2]: Health Probe
+2024-05-17 14:02:25,818 - INFO - [Master 2]: Health Probe
+2024-05-17 14:02:45,830 - INFO - [Master 2]: Health Probe
+2024-05-17 14:03:05,844 - INFO - [Master 2]: Health Probe
+2024-05-17 14:03:25,849 - INFO - [Master 2]: Health Probe
+2024-05-17 14:03:45,860 - INFO - [Master 2]: Health Probe
+2024-05-17 14:04:05,861 - INFO - [Master 2]: Health Probe
+2024-05-17 14:04:25,874 - INFO - [Master 2]: Health Probe
+2024-05-17 14:04:45,889 - INFO - [Master 2]: Health Probe
+2024-05-17 14:05:05,902 - INFO - [Master 2]: Health Probe
+2024-05-17 14:05:25,910 - INFO - [Master 2]: Health Probe
+2024-05-17 14:05:45,916 - INFO - [Master 2]: Health Probe
+2024-05-17 14:06:05,922 - INFO - [Master 2]: Health Probe
+2024-05-17 14:06:25,933 - INFO - [Master 2]: Health Probe
+2024-05-17 14:06:45,944 - INFO - [Master 2]: Health Probe
+2024-05-17 14:07:05,943 - INFO - [Master 2]: Health Probe
+2024-05-17 14:07:25,944 - INFO - [Master 2]: Health Probe
+2024-05-17 14:07:45,954 - INFO - [Master 2]: Health Probe
+2024-05-17 14:08:05,967 - INFO - [Master 2]: Health Probe
+2024-05-17 14:08:25,981 - INFO - [Master 2]: Health Probe
+2024-05-17 14:08:45,990 - INFO - [Master 2]: Health Probe
+2024-05-17 14:09:06,007 - INFO - [Master 2]: Health Probe
+2024-05-17 14:09:26,009 - INFO - [Master 2]: Health Probe
+2024-05-17 14:09:46,027 - INFO - [Master 2]: Health Probe
+2024-05-17 14:10:06,036 - INFO - [Master 2]: Health Probe
+2024-05-17 14:10:26,052 - INFO - [Master 2]: Health Probe
+2024-05-17 14:10:46,065 - INFO - [Master 2]: Health Probe
+2024-05-17 14:11:06,072 - INFO - [Master 2]: Health Probe
+2024-05-17 14:11:26,081 - INFO - [Master 2]: Health Probe
+2024-05-17 14:11:46,096 - INFO - [Master 2]: Health Probe
+2024-05-17 14:12:06,105 - INFO - [Master 2]: Health Probe
+2024-05-17 14:12:26,115 - INFO - [Master 2]: Health Probe
+2024-05-17 14:12:46,119 - INFO - [Master 2]: Health Probe
+2024-05-17 14:13:06,123 - INFO - [Master 2]: Health Probe
+2024-05-17 14:13:26,125 - INFO - [Master 2]: Health Probe
+2024-05-17 14:13:46,145 - INFO - [Master 2]: Health Probe
+2024-05-17 14:14:06,155 - INFO - [Master 2]: Health Probe
+2024-05-17 14:14:26,166 - INFO - [Master 2]: Health Probe
+2024-05-17 14:14:46,175 - INFO - [Master 2]: Health Probe
+2024-05-17 14:15:06,184 - INFO - [Master 2]: Health Probe
+2024-05-17 14:15:26,199 - INFO - [Master 2]: Health Probe
+2024-05-17 14:15:46,217 - INFO - [Master 2]: Health Probe
+2024-05-17 14:16:06,217 - INFO - [Master 2]: Health Probe
+2024-05-17 14:16:26,229 - INFO - [Master 2]: Health Probe
+2024-05-17 14:16:46,245 - INFO - [Master 2]: Health Probe
+2024-05-17 14:17:06,243 - INFO - [Master 2]: Health Probe
+2024-05-17 14:17:26,259 - INFO - [Master 2]: Health Probe
+2024-05-17 14:17:46,272 - INFO - [Master 2]: Health Probe
+2024-05-17 14:18:06,280 - INFO - [Master 2]: Health Probe
+2024-05-17 14:18:26,293 - INFO - [Master 2]: Health Probe
+2024-05-17 14:18:46,307 - INFO - [Master 2]: Health Probe
+2024-05-17 14:19:06,321 - INFO - [Master 2]: Health Probe
+2024-05-17 14:19:26,330 - INFO - [Master 2]: Health Probe
+2024-05-17 14:19:46,347 - INFO - [Master 2]: Health Probe
+2024-05-17 14:20:06,360 - INFO - [Master 2]: Health Probe
+2024-05-17 14:20:26,369 - INFO - [Master 2]: Health Probe
+2024-05-17 14:20:46,370 - INFO - [Master 2]: Health Probe
+2024-05-17 14:21:06,374 - INFO - [Master 2]: Health Probe
+2024-05-17 14:21:26,385 - INFO - [Master 2]: Health Probe
+2024-05-17 14:21:46,389 - INFO - [Master 2]: Health Probe
+2024-05-17 14:22:06,387 - INFO - [Master 2]: Health Probe
+2024-05-17 14:22:18,322 - INFO - [Master 2]: Starting Thread with:41.238.94.188 : 24641 
+2024-05-17 14:22:18,337 - INFO - [Master 2]: start receiving data
+2024-05-17 14:22:26,267 - INFO - [Master 2]: returning received array
+2024-05-17 14:22:26,268 - INFO - [Master 2]: Received image with operation:Gray 
+2024-05-17 14:22:26,327 - INFO - [ServerMaster]: Start sending
+2024-05-17 14:22:26,351 - INFO - [ServerMaster]: Start sending
+2024-05-17 14:22:26,367 - INFO - [ServerMaster]: Start receive process
+2024-05-17 14:22:26,375 - INFO - [ServerMaster]: Start sending
+2024-05-17 14:22:26,393 - INFO - [ServerMaster]: Start receive process
+2024-05-17 14:22:26,418 - INFO - [Master 2]: Health Probe
+2024-05-17 14:22:26,595 - INFO - [ServerMaster]: Start receive process
+2024-05-17 14:22:31,775 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 14:22:31,775 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 14:22:31,830 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 14:22:40,726 - INFO - [ServerMaster]: Returning received array
+2024-05-17 14:22:40,736 - INFO - [ServerMaster]: Returning received array
+2024-05-17 14:22:40,944 - INFO - [ServerMaster]: Returning received array
+2024-05-17 14:22:40,988 - INFO - [Master 2]: sending serialized
+2024-05-17 14:22:46,409 - INFO - [Master 2]: Health Probe
+2024-05-17 14:23:06,428 - INFO - [Master 2]: Health Probe
+2024-05-17 14:23:26,434 - INFO - [Master 2]: Health Probe
+2024-05-17 14:23:46,446 - INFO - [Master 2]: Health Probe
+2024-05-17 14:24:06,456 - INFO - [Master 2]: Health Probe
+2024-05-17 14:24:26,465 - INFO - [Master 2]: Health Probe
+2024-05-17 14:24:46,467 - INFO - [Master 2]: Health Probe
+2024-05-17 14:25:06,482 - INFO - [Master 2]: Health Probe
+2024-05-17 14:25:26,516 - INFO - [Master 2]: Health Probe
+2024-05-17 14:25:46,517 - INFO - [Master 2]: Health Probe
+2024-05-17 14:26:06,532 - INFO - [Master 2]: Health Probe
+2024-05-17 14:26:26,538 - INFO - [Master 2]: Health Probe
+2024-05-17 14:26:46,551 - INFO - [Master 2]: Health Probe
+2024-05-17 14:27:06,560 - INFO - [Master 2]: Health Probe
+2024-05-17 14:27:26,583 - INFO - [Master 2]: Health Probe
+2024-05-17 14:27:46,586 - INFO - [Master 2]: Health Probe
+2024-05-17 14:28:06,593 - INFO - [Master 2]: Health Probe
+2024-05-17 14:28:26,604 - INFO - [Master 2]: Health Probe
+2024-05-17 14:28:46,616 - INFO - [Master 2]: Health Probe
+2024-05-17 14:29:06,628 - INFO - [Master 2]: Health Probe
+2024-05-17 14:29:26,642 - INFO - [Master 2]: Health Probe
+2024-05-17 14:29:46,657 - INFO - [Master 2]: Health Probe
+2024-05-17 14:30:06,673 - INFO - [Master 2]: Health Probe
+2024-05-17 14:30:26,687 - INFO - [Master 2]: Health Probe
+2024-05-17 14:30:46,686 - INFO - [Master 2]: Health Probe
+2024-05-17 14:31:06,696 - INFO - [Master 2]: Health Probe
+2024-05-17 14:31:26,707 - INFO - [Master 2]: Health Probe
+2024-05-17 14:31:46,710 - INFO - [Master 2]: Health Probe
+2024-05-17 14:32:06,722 - INFO - [Master 2]: Health Probe
+2024-05-17 14:32:26,723 - INFO - [Master 2]: Health Probe
+2024-05-17 14:32:46,733 - INFO - [Master 2]: Health Probe
+2024-05-17 14:33:06,750 - INFO - [Master 2]: Health Probe
+2024-05-17 14:33:26,761 - INFO - [Master 2]: Health Probe
+2024-05-17 14:33:46,770 - INFO - [Master 2]: Health Probe
+2024-05-17 14:34:06,780 - INFO - [Master 2]: Health Probe
+2024-05-17 14:34:26,791 - INFO - [Master 2]: Health Probe
+2024-05-17 14:34:46,806 - INFO - [Master 2]: Health Probe
+2024-05-17 14:35:06,822 - INFO - [Master 2]: Health Probe
+2024-05-17 14:35:26,825 - INFO - [Master 2]: Health Probe
+2024-05-17 14:35:46,836 - INFO - [Master 2]: Health Probe
+2024-05-17 14:36:06,837 - INFO - [Master 2]: Health Probe
+2024-05-17 14:36:26,849 - INFO - [Master 2]: Health Probe
+2024-05-17 14:36:46,869 - INFO - [Master 2]: Health Probe
+2024-05-17 14:37:06,874 - INFO - [Master 2]: Health Probe
+2024-05-17 14:37:26,886 - INFO - [Master 2]: Health Probe
+2024-05-17 14:37:46,906 - INFO - [Master 2]: Health Probe
+2024-05-17 14:38:06,912 - INFO - [Master 2]: Health Probe
+2024-05-17 14:38:26,919 - INFO - [Master 2]: Health Probe
+2024-05-17 14:38:46,922 - INFO - [Master 2]: Health Probe
+2024-05-17 14:39:06,941 - INFO - [Master 2]: Health Probe
+2024-05-17 14:39:26,949 - INFO - [Master 2]: Health Probe
+2024-05-17 14:39:46,964 - INFO - [Master 2]: Health Probe
+2024-05-17 14:40:06,969 - INFO - [Master 2]: Health Probe
+2024-05-17 14:40:26,981 - INFO - [Master 2]: Health Probe
+2024-05-17 14:40:46,987 - INFO - [Master 2]: Health Probe
+2024-05-17 14:41:07,001 - INFO - [Master 2]: Health Probe
+2024-05-17 14:41:27,012 - INFO - [Master 2]: Health Probe
+2024-05-17 14:41:47,017 - INFO - [Master 2]: Health Probe
+2024-05-17 14:42:07,032 - INFO - [Master 2]: Health Probe
+2024-05-17 14:42:27,034 - INFO - [Master 2]: Health Probe
+2024-05-17 14:42:47,045 - INFO - [Master 2]: Health Probe
+2024-05-17 14:43:07,054 - INFO - [Master 2]: Health Probe
+2024-05-17 14:43:27,075 - INFO - [Master 2]: Health Probe
+2024-05-17 14:43:47,085 - INFO - [Master 2]: Health Probe
+2024-05-17 14:44:07,087 - INFO - [Master 2]: Health Probe
+2024-05-17 14:44:27,112 - INFO - [Master 2]: Health Probe
+2024-05-17 14:44:47,116 - INFO - [Master 2]: Health Probe
+2024-05-17 14:45:07,126 - INFO - [Master 2]: Health Probe
+2024-05-17 14:45:27,126 - INFO - [Master 2]: Health Probe
+2024-05-17 14:45:47,139 - INFO - [Master 2]: Health Probe
+2024-05-17 14:46:07,154 - INFO - [Master 2]: Health Probe
+2024-05-17 14:46:25,005 - INFO - [Master 2]: Starting Thread with:41.238.94.188 : 55648 
+2024-05-17 14:46:25,016 - INFO - [Master 2]: start receiving data
+2024-05-17 14:46:27,166 - INFO - [Master 2]: Health Probe

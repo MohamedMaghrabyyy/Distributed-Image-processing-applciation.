@@ -1,0 +1,123 @@
+:root {
+    --primary-black: #121212;
+    --secondary-black: #1E1E1E;
+    --accent-gray: #2C2C2C;
+    --highlight-gray: #3A3A3A;
+    --soft-white: #E0E0E0;
+    --highlight-color: #BB86FC;
+    --accent-color: #03DAC6;
+    --error-color: #CF6679;
+}
+
+body {
+    background-color: var(--primary-black);
+    color: var(--soft-white);
+}
+
+.main_box {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.add_image, .reset_image, .op, .output, .logs {
+    background-color: var(--highlight-gray);
+    color: var(--soft-white);
+    border: 1px solid var(--accent-gray);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    width: 100%;
+}
+
+button {
+    background-color: var(--highlight-color);
+    color: var(--primary-black);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: var(--accent-color);
+}
+
+input[type="file"] {
+    color: var(--soft-white);
+}
+
+select {
+    background-color: var(--secondary-black);
+    color: var(--soft-white);
+    border: 1px solid var(--accent-gray);
+    padding: 10px;
+    border-radius: 4px;
+}
+
+img {
+    border: 2px solid var(--highlight-color);
+    border-radius: 4px;
+}
+
+#resetImagesBtn, #startProcessingBtn {
+    background-color: var(--highlight-color);
+    color: var(--primary-black);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#resetImagesBtn:hover, #startProcessingBtn:hover {
+    background-color: var(--accent-color);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: var(--accent-gray);
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 4px;
+}
+
+.error {
+    color: var(--error-color);
+}
+
+/* New CSS for log container */
+.log-container {
+    max-height: 200px; /* Adjust the height as needed */
+    overflow-y: auto;
+    background-color: var(--accent-gray);
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid var(--highlight-gray);
+}
+
+.log-container ul {
+    margin: 0;
+    padding: 0;
+}
+
+.log-container li {
+    background-color: var(--highlight-gray);
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 4px;
+}
+img {
+    max-width: 100px; /* Ensure images don't exceed their container */
+    height: 100px; /* Maintain aspect ratio */
+    border: 2px solid var(--highlight-color);
+    border-radius: 4px;
+}

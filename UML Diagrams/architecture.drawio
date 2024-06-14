@@ -1,0 +1,55 @@
+<mxfile host="Electron" modified="2024-04-16T14:12:23.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="d9xl2XKYdmpxAHCeLh0q" version="22.1.11" type="device">
+  <diagram name="Page-1" id="eFw3Z6QGGELeiOu9XCiA">
+    <mxGraphModel dx="1050" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="168.43" y="40" width="763.13" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="5TPm8Sv-kOyxjErB5b6X-1" target="5TPm8Sv-kOyxjErB5b6X-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-1" value="User Interface" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="5TPm8Sv-kOyxjErB5b6X-2" target="5TPm8Sv-kOyxjErB5b6X-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-2" value="Users" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-6" value="&lt;font style=&quot;background-color: rgb(255, 255, 255); font-size: 18px;&quot; color=&quot;#000000&quot;&gt;Application&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="345" y="350" width="410" height="91.02000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-5" value="Task Scheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;fontSize=18;" vertex="1" parent="5TPm8Sv-kOyxjErB5b6X-6">
+          <mxGeometry y="29.66" width="410" height="30.68" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-7" value="Load Balancer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;fontSize=18;" vertex="1" parent="5TPm8Sv-kOyxjErB5b6X-6">
+          <mxGeometry y="60.34000000000003" width="410" height="30.68" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="5TPm8Sv-kOyxjErB5b6X-8" target="5TPm8Sv-kOyxjErB5b6X-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-8" value="OpenCL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="330" y="490" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="5TPm8Sv-kOyxjErB5b6X-7" target="5TPm8Sv-kOyxjErB5b6X-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-11" value="&lt;font style=&quot;background-color: rgb(255, 255, 255); font-size: 18px;&quot; color=&quot;#000000&quot;&gt;Cloud Infrastructure&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="345" y="590" width="410" height="91.02000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-12" value="Virtual Machines" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;fontSize=18;" vertex="1" parent="5TPm8Sv-kOyxjErB5b6X-11">
+          <mxGeometry y="29.66" width="410" height="30.68" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-13" value="Object Storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;fontSize=18;" vertex="1" parent="5TPm8Sv-kOyxjErB5b6X-11">
+          <mxGeometry y="60.34000000000003" width="410" height="30.68" as="geometry" />
+        </mxCell>
+        <mxCell id="5TPm8Sv-kOyxjErB5b6X-16" value="System Layered Architecture" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;fontSize=18;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="50" width="260" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

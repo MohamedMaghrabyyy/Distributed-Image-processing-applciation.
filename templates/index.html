@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>App</title>
+    <link rel="stylesheet" href="../static/index.css" />
+</head>
+<body>
+    {% block body %}
+    <div class="main_box">
+        <div class="add_image">
+            <div>
+                <h1>Add Image</h1>
+            </div>
+            <div>
+                <form action="{{ url_for('addImage') }}" enctype="multipart/form-data" method="POST">
+                    <input class="btn" type="file" name="img" />
+                    <button class="btn">Submit</button>
+                </form>
+            </div> 
+        </div>
+        <div class="reset_image">
+            <div>
+                <div>
+                    <p>Added Images</p>
+                </div>
+                <div>
+                    <form action="/resetImages" method="post">
+                        <button class="btn" id="resetImagesBtn" type="submit">Reset images</button>
+                    </form>
+                </div>
+            </div>
+            <div id="addedImagesDiv">
+                {% for img in images %}
+                <img src="{{img}}" alt="" />
+                {% endfor %}
+            </div>
+        </div>
+        <div class="op">
+            <form action="/startProcessing" method="post">
+                <div class="flex-column">
+                    <p>Operation</p>
+                    <select class="btn" name="Operation" id="selectedOperation">
+                        {% for op in operations %}
+                        <option value="{{op}}">{{op}}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div>
+                    <button class="btn" id="startProcessingBtn">Start Processing</button>
+                </div>
+            </form>
+        </div>
+        <div class="output">
+            <div>
+                <p>Output</p>
+            </div>
+            <div id="outputDiv">
+                {% for img in outputImages %}
+                <img src="{{img}}" alt="">
+                {% endfor %}
+            </div>
+        </div>
+    
+        <!-- New section to display log entries -->
+        <div class="logs">
+            <p>Log Entries</p>
+            <div class="log-container">
+                <ul>
+                    {% for entry in log_entries %}
+                    <li>{{ entry }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    {% endblock %}
+</body>
+</html>

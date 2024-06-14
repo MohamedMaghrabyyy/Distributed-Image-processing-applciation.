@@ -1,0 +1,21 @@
+2024-05-16 02:39:53,437 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-16 02:39:53,437 - INFO - [33mPress CTRL+C to quit[0m
+2024-05-16 02:39:59,388 - INFO - 127.0.0.1 - - [16/May/2024 02:39:59] "GET / HTTP/1.1" 200 -
+2024-05-16 02:39:59,528 - INFO - 127.0.0.1 - - [16/May/2024 02:39:59] "[36mGET /static/index.css HTTP/1.1[0m" 304 -
+2024-05-16 02:39:59,542 - INFO - 127.0.0.1 - - [16/May/2024 02:39:59] "[36mGET /static/output/out1.png HTTP/1.1[0m" 304 -
+2024-05-16 02:39:59,544 - INFO - 127.0.0.1 - - [16/May/2024 02:39:59] "[36mGET /static/uploads/mix.jpg HTTP/1.1[0m" 304 -
+2024-05-16 02:40:01,282 - INFO - 127.0.0.1 - - [16/May/2024 02:40:01] "GET / HTTP/1.1" 200 -
+2024-05-16 02:40:01,290 - INFO - 127.0.0.1 - - [16/May/2024 02:40:01] "[36mGET /static/index.css HTTP/1.1[0m" 304 -
+2024-05-16 02:40:01,290 - INFO - 127.0.0.1 - - [16/May/2024 02:40:01] "[36mGET /static/uploads/mix.jpg HTTP/1.1[0m" 304 -
+2024-05-16 02:40:01,293 - INFO - 127.0.0.1 - - [16/May/2024 02:40:01] "[36mGET /static/output/out1.png HTTP/1.1[0m" 304 -
+2024-05-16 02:40:08,018 - INFO - [Host]: LBIP: 20.8.176.72
+2024-05-16 02:40:08,080 - INFO - [Host]: Socket connected
+2024-05-16 02:40:08,081 - INFO - [Host]: Start sending
+2024-05-16 02:40:30,013 - INFO - [Host]: Start receiving data
+2024-05-16 02:40:36,426 - INFO - [Host]: Returning received array
+2024-05-16 02:40:39,246 - INFO - 127.0.0.1 - - [16/May/2024 02:40:39] "[32mPOST /startProcessing HTTP/1.1[0m" 302 -
+2024-05-16 02:40:39,260 - INFO - 127.0.0.1 - - [16/May/2024 02:40:39] "GET / HTTP/1.1" 200 -
+2024-05-16 02:40:39,319 - INFO - 127.0.0.1 - - [16/May/2024 02:40:39] "[36mGET /static/index.css HTTP/1.1[0m" 304 -
+2024-05-16 02:40:39,322 - INFO - 127.0.0.1 - - [16/May/2024 02:40:39] "[36mGET /static/uploads/mix.jpg HTTP/1.1[0m" 304 -
+2024-05-16 02:40:39,328 - INFO - 127.0.0.1 - - [16/May/2024 02:40:39] "GET /static/output/out1.png HTTP/1.1" 200 -

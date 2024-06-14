@@ -1,0 +1,55 @@
+2024-05-17 12:57:43,989 - INFO - [Master 2]: Start listening on ip:10.1.0.4, port:5090
+2024-05-17 12:57:44,207 - INFO - [Master 2]: Health Probe
+2024-05-17 12:58:04,216 - INFO - [Master 2]: Health Probe
+2024-05-17 12:58:24,225 - INFO - [Master 2]: Health Probe
+2024-05-17 12:58:36,096 - INFO - [Master 2]: Starting Thread with:41.238.94.188 : 54483 
+2024-05-17 12:58:36,096 - INFO - [Master 2]: start receiving data
+2024-05-17 12:58:36,224 - INFO - [Master 2]: Starting Thread with:41.238.94.188 : 54484 
+2024-05-17 12:58:36,224 - INFO - [Master 2]: start receiving data
+2024-05-17 12:58:42,617 - INFO - [Master 2]: returning received array
+2024-05-17 12:58:42,617 - INFO - [Master 2]: Received image with operation:Gray 
+2024-05-17 12:58:42,647 - INFO - [ServerMaster]: Start sending
+2024-05-17 12:58:42,654 - INFO - [ServerMaster]: Start receive process
+2024-05-17 12:58:42,663 - INFO - [ServerMaster]: Start sending
+2024-05-17 12:58:42,671 - INFO - [ServerMaster]: Start receive process
+2024-05-17 12:58:42,683 - INFO - [ServerMaster]: Start sending
+2024-05-17 12:58:42,702 - INFO - [ServerMaster]: Start receive process
+2024-05-17 12:58:44,244 - INFO - [Master 2]: Health Probe
+2024-05-17 12:58:46,831 - INFO - [Master 2]: returning received array
+2024-05-17 12:58:46,849 - INFO - [Master 2]: Received image with operation:Gray 
+2024-05-17 12:58:47,023 - INFO - [ServerMaster]: Start sending
+2024-05-17 12:58:47,087 - INFO - [ServerMaster]: Start receive process
+2024-05-17 12:58:47,087 - INFO - [ServerMaster]: Start sending
+2024-05-17 12:58:47,126 - INFO - [ServerMaster]: Start receive process
+2024-05-17 12:58:47,167 - INFO - [ServerMaster]: Start sending
+2024-05-17 12:58:47,206 - INFO - [ServerMaster]: Start receive process
+2024-05-17 12:58:47,677 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 12:58:47,687 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 12:58:47,710 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 12:58:47,761 - INFO - [ServerMaster]: Returning received array
+2024-05-17 12:58:47,767 - INFO - [ServerMaster]: Returning received array
+2024-05-17 12:58:47,776 - INFO - [ServerMaster]: Returning received array
+2024-05-17 12:58:47,937 - INFO - [Master 2]: sending serialized
+2024-05-17 12:58:52,493 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 12:58:52,531 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 12:58:52,634 - INFO - [ServerMaster]: Start receiving data
+2024-05-17 12:59:01,386 - INFO - [ServerMaster]: Returning received array
+2024-05-17 12:59:01,504 - INFO - [ServerMaster]: Returning received array
+2024-05-17 12:59:01,728 - INFO - [ServerMaster]: Returning received array
+2024-05-17 12:59:01,791 - INFO - [Master 2]: sending serialized
+2024-05-17 12:59:04,245 - INFO - [Master 2]: Health Probe
+2024-05-17 12:59:24,252 - INFO - [Master 2]: Health Probe
+2024-05-17 12:59:44,261 - INFO - [Master 2]: Health Probe
+2024-05-17 13:00:04,268 - INFO - [Master 2]: Health Probe
+2024-05-17 13:00:24,282 - INFO - [Master 2]: Health Probe
+2024-05-17 13:00:44,292 - INFO - [Master 2]: Health Probe
+2024-05-17 13:01:04,305 - INFO - [Master 2]: Health Probe
+2024-05-17 13:01:24,305 - INFO - [Master 2]: Health Probe
+2024-05-17 13:01:44,328 - INFO - [Master 2]: Health Probe
+2024-05-17 13:02:04,342 - INFO - [Master 2]: Health Probe
+2024-05-17 13:02:24,349 - INFO - [Master 2]: Health Probe
+2024-05-17 13:02:44,362 - INFO - [Master 2]: Health Probe
+2024-05-17 13:03:04,366 - INFO - [Master 2]: Health Probe
+2024-05-17 13:03:24,364 - INFO - [Master 2]: Health Probe
+2024-05-17 13:03:30,825 - INFO - [Master 2]: Starting Thread with:41.238.94.188 : 23269 
+2024-05-17 13:03:30,843 - INFO - [Master 2]: start receiving data
